@@ -33,6 +33,7 @@ public class Main {
      System.out.println("Data Brazil: " + data.format(formatadorBrazil));
      System.out.println("Data EUA: " + data.format(formatadorEUA));
      System.out.println("Data Alemanha: " + data.format(formatadorAlemanha));
+     
 
 }
 }
